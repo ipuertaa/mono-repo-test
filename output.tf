@@ -1,3 +1,3 @@
 output "tag-value" {
-    value = "tagv1"
+    value = "value1"
 }
